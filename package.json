@@ -1,6 +1,6 @@
 {
   "name": "tachyons-skins",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "style": "skins.css",
   "homepage": "http://mrmrs.io/tachyons-skins",
   "description": "Performance based sass module.",
