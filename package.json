@@ -2,15 +2,15 @@
   "name": "tachyons-skins",
   "version": "2.0.1",
   "style": "tachyons-skins.css",
-  "homepage": "http://github.com/mrmrs/tachyons-skins",
+  "homepage": "http://github.com/tachyons-css/tachyons-skins",
   "description": "Performance based css module.",
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "http://github.com/mrmrs/tachyons-skins.git"
+    "url": "http://github.com/tachyons-css/tachyons-skins.git"
   },
   "bugs": {
-    "url": "https://github.com/mrmrs/tachyons-skins/issues",
+    "url": "https://github.com/tachyons-css/tachyons-skins/issues",
     "email": "hi@mrmrs.cc"
   },
   "author": {
