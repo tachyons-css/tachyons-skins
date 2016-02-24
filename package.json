@@ -1,10 +1,10 @@
 {
   "name": "tachyons-skins",
   "version": "3.0.0",
-  "style": "tachyons-skins.css",
+  "style": "src/tachyons-skins.css",
   "homepage": "http://github.com/tachyons-css/tachyons-skins",
   "description": "Performance based css module.",
-  "keywords": [],
+  "keywords": ["colors", "design", "css", "tachyons", "postcss"],
   "repository": {
     "type": "git",
     "url": "http://github.com/tachyons-css/tachyons-skins.git"
