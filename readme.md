@@ -1,10 +1,10 @@
-# tachyons-skins 2.0.2
+# tachyons-skins 3.1.2
 
 Performance based css module.
 
 #### Stats
 
-825 | 102 | 102
+834 | 104 | 104
 ---|---|---
 bytes | selectors | declarations
 
@@ -116,6 +116,7 @@ Running `$ npm start` will process the source CSS and place the built CSS in the
 .gray { color: #777; }
 .silver { color: #999; }
 .light-silver { color: #aaa; }
+.moon-gray { color: #ccc; }
 .light-gray { color: #eee; }
 .near-white { color: #f4f4f4; }
 .white { color: #fff; }
@@ -127,6 +128,7 @@ Running `$ npm start` will process the source CSS and place the built CSS in the
 .bg-gray { background-color: #777; }
 .bg-silver { background-color: #999; }
 .bg-light-silver { background-color: #aaa; }
+.bg-moon-gray { background-color: #ccc; }
 .bg-light-gray { background-color: #eee; }
 .bg-near-white { background-color: #f4f4f4; }
 .bg-white { background-color: #fff; }
