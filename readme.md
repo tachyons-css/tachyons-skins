@@ -1,10 +1,10 @@
-# tachyons-skins 3.1.2
+# tachyons-skins 3.1.3
 
 Performance based css module.
 
 #### Stats
 
-834 | 104 | 104
+848 | 104 | 104
 ---|---|---
 bytes | selectors | declarations
 
@@ -109,7 +109,7 @@ Running `$ npm start` will process the source CSS and place the built CSS in the
 .bg-white-30 { background-color: rgba( 255, 255, 255, .3 ); }
 .bg-white-20 { background-color: rgba( 255, 255, 255, .2 ); }
 .bg-white-10 { background-color: rgba( 255, 255, 255, .1 ); }
-.black { color: #111; }
+.black { color: #000; }
 .near-black { color: #111; }
 .dark-gray { color: #333; }
 .mid-gray { color: #555; }
@@ -121,7 +121,7 @@ Running `$ npm start` will process the source CSS and place the built CSS in the
 .near-white { color: #f4f4f4; }
 .white { color: #fff; }
 /* Background colors */
-.bg-black { background-color: #111; }
+.bg-black { background-color: #000; }
 .bg-near-black { background-color: #111; }
 .bg-dark-gray { background-color: #333; }
 .bg-mid-gray { background-color: #555; }
@@ -133,7 +133,7 @@ Running `$ npm start` will process the source CSS and place the built CSS in the
 .bg-near-white { background-color: #f4f4f4; }
 .bg-white { background-color: #fff; }
 /* Skins for specific pseudoclasses */
-.focus-black:focus { color: #111; }
+.focus-black:focus { color: #000; }
 .focus-near-black:focus { color: #111; }
 .focus-dark-gray:focus { color: #333; }
 .focus-mid-gray:focus { color: #555; }
@@ -144,7 +144,7 @@ Running `$ npm start` will process the source CSS and place the built CSS in the
 .focus-light-gray:focus { color: #eee; }
 .focus-near-white:focus { color: #f4f4f4; }
 .focus-white:focus { color: #fff; }
-.bg-focus-black:focus { background-color: #111; }
+.bg-focus-black:focus { background-color: #000; }
 .bg-focus-near-black:focus { background-color: #111; }
 .bg-focus-dark-gray:focus { background-color: #333; }
 .bg-focus-mid-gray:focus { background-color: #555; }
@@ -155,7 +155,7 @@ Running `$ npm start` will process the source CSS and place the built CSS in the
 .bg-focus-light-gray:focus { background-color: #eee; }
 .bg-focus-near-white:focus { background-color: #f4f4f4; }
 .bg-focus-white:focus { background-color: #fff; }
-.hover-black:hover { color: #111; }
+.hover-black:hover { color: #000; }
 .hover-near-black:hover { color: #111; }
 .hover-dark-gray:hover { color: #333; }
 .hover-mid-gray:hover { color: #555; }
@@ -166,7 +166,7 @@ Running `$ npm start` will process the source CSS and place the built CSS in the
 .hover-light-gray:hover { color: #eee; }
 .hover-near-white:hover { color: #f4f4f4; }
 .hover-white:hover { color: #fff; }
-.bg-hover-black:hover { background-color: #111; }
+.bg-hover-black:hover { background-color: #000; }
 .bg-hover-near-black:hover { background-color: #111; }
 .bg-hover-dark-gray:hover { background-color: #333; }
 .bg-hover-mid-gray:hover { background-color: #555; }
