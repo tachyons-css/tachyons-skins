@@ -1,10 +1,10 @@
-# tachyons-skins 3.1.3
+# tachyons-skins 3.1.4
 
 Performance based css module.
 
 #### Stats
 
-848 | 104 | 104
+884 | 107 | 107
 ---|---|---
 bytes | selectors | declarations
 
@@ -132,6 +132,7 @@ Running `$ npm start` will process the source CSS and place the built CSS in the
 .bg-light-gray { background-color: #eee; }
 .bg-near-white { background-color: #f4f4f4; }
 .bg-white { background-color: #fff; }
+.bg-transparent { background-color: transparent; }
 /* Skins for specific pseudoclasses */
 .focus-black:focus { color: #000; }
 .focus-near-black:focus { color: #111; }
@@ -155,6 +156,7 @@ Running `$ npm start` will process the source CSS and place the built CSS in the
 .bg-focus-light-gray:focus { background-color: #eee; }
 .bg-focus-near-white:focus { background-color: #f4f4f4; }
 .bg-focus-white:focus { background-color: #fff; }
+.bg-focus-transparent:focus { background-color: transparent; }
 .hover-black:hover { color: #000; }
 .hover-near-black:hover { color: #111; }
 .hover-dark-gray:hover { color: #333; }
@@ -177,6 +179,7 @@ Running `$ npm start` will process the source CSS and place the built CSS in the
 .bg-hover-light-gray:hover { background-color: #eee; }
 .bg-hover-near-white:hover { background-color: #f4f4f4; }
 .bg-hover-white:hover { background-color: #fff; }
+.bg-hover-transparent:hover { background-color: transparent; }
 ```
 
 ## Contributing

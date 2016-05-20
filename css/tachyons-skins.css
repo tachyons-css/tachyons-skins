@@ -74,6 +74,7 @@
 .bg-light-gray { background-color: #eee; }
 .bg-near-white { background-color: #f4f4f4; }
 .bg-white { background-color: #fff; }
+.bg-transparent { background-color: transparent; }
 /* Skins for specific pseudoclasses */
 .focus-black:focus { color: #000; }
 .focus-near-black:focus { color: #111; }
@@ -97,6 +98,7 @@
 .bg-focus-light-gray:focus { background-color: #eee; }
 .bg-focus-near-white:focus { background-color: #f4f4f4; }
 .bg-focus-white:focus { background-color: #fff; }
+.bg-focus-transparent:focus { background-color: transparent; }
 .hover-black:hover { color: #000; }
 .hover-near-black:hover { color: #111; }
 .hover-dark-gray:hover { color: #333; }
@@ -119,4 +121,5 @@
 .bg-hover-light-gray:hover { background-color: #eee; }
 .bg-hover-near-white:hover { background-color: #f4f4f4; }
 .bg-hover-white:hover { background-color: #fff; }
+.bg-hover-transparent:hover { background-color: transparent; }
 
