@@ -1,6 +1,6 @@
 {
   "name": "tachyons-skins",
-  "version": "3.1.5",
+  "version": "3.1.6",
   "style": "src/tachyons-skins.css",
   "homepage": "http://github.com/tachyons-css/tachyons-skins",
   "description": "Performance based css module.",
@@ -36,5 +36,9 @@
     "build:docs": "tachyons src/tachyons-skins.css --generate-docs --package=../../package.json > readme.md",
     "build": "npm run build:css && npm run build:minify && npm run build:docs",
     "build:watch": "watch 'npm run build' ./src"
+  },
+  "metadata": {
+    "category": "theming",
+    "isCore": true
   }
 }
