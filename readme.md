@@ -1,4 +1,4 @@
-# tachyons-skins 3.1.6
+# tachyons-skins 3.2.0
 
 Performance based css module.
 
