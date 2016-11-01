@@ -1,6 +1,6 @@
 {
   "name": "tachyons-skins",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "style": "src/tachyons-skins.css",
   "homepage": "http://github.com/tachyons-css/tachyons-skins",
   "description": "Performance based css module.",
